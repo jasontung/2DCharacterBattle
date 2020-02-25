@@ -1,0 +1,10 @@
+Library/
+Temp/
+*.csproj
+*.sln
+.vs/
+*.apk
+Assets/StreamingAssets/build_info.txt
+Assets/StreamingAssets/build_info.txt.meta
+*.userprefs
+Bundle/
